@@ -1,0 +1,13 @@
+{
+  "name": "express-dockerfile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "thiaguinhoo <thiagoluizsog@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
